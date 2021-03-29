@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Latihan1_10118085</string>
+    <string name="nama">Nama : Risky Irfansyah</string>
+    <string name="nim">NIM : 10118085</string>
+    <string name="kelas">Kelas : IF-2</string>
+    <string name="jk">Jenis Kelamin : Laki - Laki</string>
+    <string name="ttl">Tempat Tanggal Lahir : Cimahi, 14 Juni 1999 </string>
+    <string name="alamat">Alamat : Jl Lurah II No 186</string>
+    <string name="goldar">Golongan Darah : O</string>
+    <string name="makanan">Makanan Favorit : Cinnamon Roll Cake</string>
+    <string name="minuman">Minuman Favorit : Affogato</string>
+    <string name="hobi">Hobi : Editing Video</string>
+    <string name="lagu">Lagu Favorit : kishikaisei</string>
+    <string name="film">Film Favorit : Der Untergang</string>
+    <string name="kerjaan">Pekerjaan yang Diinginkan : Editor Video</string>
+</resources>
